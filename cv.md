@@ -20,7 +20,7 @@ Stress resistance, responsibility, time management, attention to detail, empathy
 * Adobe Photoshop
 
 ## Code example:
-Create a function combos, that accepts a single positive integer num (30 > num > 0) and returns an array of arrays of positive integers that sum to num [Ссылка на задачу](https://www.codewars.com/kata/555b1890a75b930e63000023/python).
+Create a function combos, that accepts a single positive integer num (30 > num > 0) and returns an array of arrays of positive integers that sum to num [task link](https://www.codewars.com/kata/555b1890a75b930e63000023/python).
 
 ```
 def combos(n):
@@ -53,4 +53,4 @@ def combos(n):
 ## Languages:
 * Russian - Native
 * Belorusian - Native
-* English: English Language Course Pre-Intermadiate/strong waystage(A2+) in Institute IBA, B1 Intermediate (according to the online test at EFset Logo www.efset.org)/ I use application in smartphone (Duolingo) every day and read books in origion.
+* English: English Language Course Pre-Intermadiate/strong waystage(A2+) in Institute IBA, B1 Intermediate (according to the online test at EFset Logo www.efset.org). I use application in smartphone (Duolingo) every day and read books in origion.
