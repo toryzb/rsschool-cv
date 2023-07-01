@@ -2,9 +2,9 @@
 
 ## Contact information:
 
-Phone: +375 29 313 75 18
-E-mail: tory.zb@gmail.com
-Telegram: @ToryZB
+Phone: +375 29 313 75 18  
+E-mail: tory.zb@gmail.com  
+Telegram: @ToryZB  
 
 ## About me:
 
@@ -20,7 +20,7 @@ Stress resistance, responsibility, time management, attention to detail, empathy
 * Adobe Photoshop
 
 ## Code example:
-Create a function combos, that accepts a single positive integer num (30 > num > 0) and returns an array of arrays of positive integers that sum to num (https://www.codewars.com/kata/555b1890a75b930e63000023/python).
+Create a function combos, that accepts a single positive integer num (30 > num > 0) and returns an array of arrays of positive integers that sum to num [Ссылка на задачу](https://www.codewars.com/kata/555b1890a75b930e63000023/python).
 
 ```
 def combos(n):
