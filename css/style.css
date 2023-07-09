@@ -51,8 +51,8 @@
     letter-spacing: 5px;
     color: #17225a;
   }
-  .footer {
+  .footer-content-wrapper {
     display: flex;
-    justify-content: flex-end;
-    align-items: center;
+    justify-content: space-around;
+    font-size: 17px;
   }
