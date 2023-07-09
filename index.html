@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>cv</title>
+    <link rel="icon" href="assets/img/favicon.ico">
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+
+  <body>
+    <header class="header">
+        <div class="container">
+            <nav>
+                <ul class="main-menu">
+                    <li class="main-menu__item">About me</li>
+                    <li class="main-menu__item">Skills</li>
+                    <li class="main-menu__item">Code example</li>
+                    <li class="main-menu__item">Education</li>
+                    <li class="main-menu__item">Languages</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <h1>Viktoryia Zubovich</h1>
+            <section>
+                <h2>Contact information:</h2>
+                <p>Phone: +375 29 313 75 18</p>
+                <p>E-mail: tory.zb@gmail.com</p>
+                <p>Telegram: @ToryZB</p>
+                <img src="assets/img/avatar.jpg" alt="my photo" width="200px">
+            </section>
+            <h2>About me:</h2>
+            <p>I worked as a security system design engineer for 5 years. Then for 2 years I worked as a site administrator. Now, coming out of the second maternity leave, I want to change direction and further develop myself. I am interested in areas where I could work with programming languages, mathematics.
+    Stress resistance, responsibility, time management, attention to detail, empathy.</p>
+            <h2>Skills:</h2>
+            <ul>
+                <li>Java (basic)</li>
+                <li>Python (basic)</li>
+                <li>HTML and CSS (basic)</li>
+                <li>IntelliJ IDEA</li>
+                <li>Adobe Photoshop</li>
+            </ul>
+            <h2>Code example:</h2>
+            <p>Create a function combos, that accepts a single positive integer num (30 > num > 0) and returns an array of arrays of positive integers that sum to num. <a href="https://www.codewars.com/kata/555b1890a75b930e63000023/python">Task link</a>.
+                <pre>
+                    <code>
+                        def combos(n):
+                            if n == 0:
+                                return [[]]
+                            elif n == 1:
+                                return [[1]]
+                            else:
+                                arr = []
+                                arr.append([n])
+                                for i in range(1, n):
+                                    for k in combos(n-i):
+                                        k.append(i)
+                                        j = sorted(k)
+                                        arr.append(j)
+                            res = []
+                            for i in arr:
+                                if i not in res:
+                                    res.append(i)
+
+                            return res
+
+                    </code>
+                </pre>
+            </p>
+            <h2>Education:</h2>
+            <ul>
+                <li>University: Belarusian State University of Informatics and Radioelectronics</li>
+                <li>Java programming course (Institute IBA, 2021)</li>
+                <li>Python programming course (udemy, by muself)</li>
+                <li>Language application development hackathon Python, IBA Institute, 2021</li>
+            </ul>
+            <h2>Languages:</h2>
+            <ul>
+                <li>Russian - Native</li>
+                <li>Belorusian - Native</li>
+                <li>English: English Language Course Pre-Intermadiate/strong waystage(A2+) in Institute IBA, B1 Intermediate (according to the online test at EFset Logo www.efset.org). I use application in smartphone (Duolingo) every day and read books in origion.</li>
+            </ul>
+        </div>
+    </main>
+  </body>
