@@ -53,4 +53,5 @@ def combos(n):
 ## Languages:
 * Russian - Native
 * Belorusian - Native
-* English: English Language Course Pre-Intermadiate/strong waystage(A2+) in Institute IBA, B1 Intermediate (according to the online test at EFset Logo www.efset.org). I use application in smartphone (Duolingo) every day and read books in origion.
+* English: English Language Course Pre-Intermadiate/strong waystage(A2+) in Institute IBA, B2 Intermediate (according to the online test at EFset Logo www.efset.org). I use application in smartphone (Duolingo) every day and read books in origion.
+![EFset test](/image_sert.png "EFset test")
