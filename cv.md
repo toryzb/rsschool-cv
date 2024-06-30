@@ -8,7 +8,7 @@ Telegram: @ToryZB
 
 ## About me:
 
-I worked as a security system design engineer for 5 years. Then for 3 years I worked as a site administrator. Now, I want to change direction and further develop myself. I am interested in areas where I could work with programming languages, mathematics.
+I worked as a security system design engineer for 5 years. Then for 3 years (with a break for maternity leave) I worked as a site administrator. Now, I want to change direction and further develop myself. I am interested in areas where I could work with programming languages, mathematics.
 Stress resistance, responsibility, time management, attention to detail, empathy.
 
 ## Skills:
