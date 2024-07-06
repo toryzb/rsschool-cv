@@ -8,7 +8,7 @@ Telegram: @ToryZB
 
 ## About me:
 
-I worked as a security system design engineer for 5 years. Then for 2 years I worked as a site administrator. Now, coming out of the second maternity leave, I want to change direction and further develop myself. I am interested in areas where I could work with programming languages, mathematics.
+I worked as a security system design engineer for 5 years. Then for 3 years (with a break for maternity leave) I worked as a site administrator. Now, I want to change direction and further develop myself. I am interested in areas where I could work with programming languages, mathematics.
 Stress resistance, responsibility, time management, attention to detail, empathy.
 
 ## Skills:
@@ -53,4 +53,5 @@ def combos(n):
 ## Languages:
 * Russian - Native
 * Belorusian - Native
-* English: English Language Course Pre-Intermadiate/strong waystage(A2+) in Institute IBA, B1 Intermediate (according to the online test at EFset Logo www.efset.org). I use application in smartphone (Duolingo) every day and read books in origion.
+* English: English Language Course Pre-Intermadiate/strong waystage(A2+) in Institute IBA, B2 Intermediate (according to the online test at EFset Logo www.efset.org). I use application in smartphone (Duolingo) every day and read books in origion.
+![EFset test](/image_sert.png "EFset test")
