@@ -8,7 +8,7 @@ Telegram: @ToryZB
 
 ## About me:
 
-I worked as a security system design engineer for 5 years. Then for 3 years (with a break for maternity leave) I worked as a site administrator. Now, I want to change direction and further develop myself. I am interested in areas where I could work with programming languages, mathematics.
+I worked as a security system design engineer for 5 years. Then for 7 years (with a break for maternity leave) I worked as a site administrator. Now, I want to change direction and further develop myself. I am interested in areas where I could work with programming languages, mathematics.
 Stress resistance, responsibility, time management, attention to detail, empathy.
 
 ## Skills:
@@ -44,6 +44,9 @@ def combos(n):
     return res
 ```
 
+## Work Experience:
+Completed JavaScript/Front-end course in 2025. [Final teamwork](https://deploy-preview-45--modevashop.netlify.app/)
+
 ## Education:
 * University: Belarusian State University of Informatics and Radioelectronics
 * Java programming course (Institute IBA, 2021)
@@ -53,5 +56,5 @@ def combos(n):
 ## Languages:
 * Russian - Native
 * Belorusian - Native
-* English: English Language Course Pre-Intermadiate/strong waystage(A2+) in Institute IBA, B2 Intermediate (according to the online test at EFset Logo www.efset.org). I use application in smartphone (Duolingo) every day and read books in origion.
+* English: English Language Course Pre-Intermadiate/strong waystage(A2+) in Institute IBA(2022), B2 Intermediate (according to the online test at EFset Logo www.efset.org). I use application in smartphone (Duolingo) every day and read books in origion.
 ![EFset test](/image_sert.png "EFset test")
